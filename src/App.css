@@ -8,7 +8,7 @@ html {
   scroll-behavior: smooth;
 }
 body {
-  background: url(../public/bg.jpg);
+  background: url(../public/bg.png);
   background-size: cover;
   padding: 0 5vw;
 }
