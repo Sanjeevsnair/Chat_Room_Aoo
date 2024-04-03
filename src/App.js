@@ -21,7 +21,7 @@ function App() {
   if (!isAuth)
     return (
       <div className="login-container">
-        <h1>Welcome to Chatroom</h1>
+        <h3>Welcome to ChatRoom</h3>
         <Auth setIsAuth={setIsAuth} />
       </div>
     );
